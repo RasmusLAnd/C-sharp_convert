@@ -1,0 +1,11 @@
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Convert\C-sharp_convert\bin\Debug\netcoreapp3.0\C-sharp_convert.exe
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Convert\C-sharp_convert\bin\Debug\netcoreapp3.0\C-sharp_convert.deps.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Convert\C-sharp_convert\bin\Debug\netcoreapp3.0\C-sharp_convert.runtimeconfig.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Convert\C-sharp_convert\bin\Debug\netcoreapp3.0\C-sharp_convert.runtimeconfig.dev.json
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Convert\C-sharp_convert\bin\Debug\netcoreapp3.0\C-sharp_convert.dll
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Convert\C-sharp_convert\bin\Debug\netcoreapp3.0\C-sharp_convert.pdb
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Convert\C-sharp_convert\obj\Debug\netcoreapp3.0\C-sharp_convert.csprojAssemblyReference.cache
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Convert\C-sharp_convert\obj\Debug\netcoreapp3.0\C-sharp_convert.AssemblyInfoInputs.cache
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Convert\C-sharp_convert\obj\Debug\netcoreapp3.0\C-sharp_convert.AssemblyInfo.cs
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Convert\C-sharp_convert\obj\Debug\netcoreapp3.0\C-sharp_convert.dll
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\C#\Convert\C-sharp_convert\obj\Debug\netcoreapp3.0\C-sharp_convert.pdb
